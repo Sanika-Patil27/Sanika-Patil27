@@ -31,6 +31,3 @@
 📊 GitHub Stats
 
 ![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanika-Patil27&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanika-Patil27&layout=compact&theme=default)
-
