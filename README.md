@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Website designing**
 
-- 🌱 I’m currently learning **OpenCV, Deep Learning**
+- 🌱 I’m currently learning **OpenCV**
 
 - 📫 How to reach me **sanikapatil930@gmail.com**
 
