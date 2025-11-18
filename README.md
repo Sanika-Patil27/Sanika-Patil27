@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanika-patil27" alt="sanika-patil27" /></a> </p>
 
-- 🔭 I’m currently working on **Website designing**
+- 🔭 I’m currently working on **AI-ML Projects**
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **sanikapatil930@gmail.com**
 
